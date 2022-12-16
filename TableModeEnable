@@ -17,4 +17,9 @@ using the flags -Wall -Werror -Wextra and -pedantic
 * All files were linted for syntax and style with Betty
 
 ## Table of contents ##
-
+||
+| Files | Description |
+||
+| 0-binary_tree_node.c | C function that creates a binary tree node |
+| 1-binary_tree_insert_left.c | C function that inserts a node as the left-child of another node |
+||
